@@ -1,0 +1,270 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+*:focus {
+    outline: 3px dotted #4DC490;
+    outline-offset: 3px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1440px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* SITE-HEADER */
+.site-header {
+    background-color: #f3d7b7;
+}
+
+.header-flex {
+    display: flex;
+    align-items: center;
+}
+
+.site-logo {
+    width: 235px;
+    height: 24px;
+    margin-right: auto;
+}
+
+.site-header-list {
+    display: flex;
+    list-style: none;
+}
+
+.header-list-item:not(:last-child) {
+    margin-right: 40px;
+}
+
+.site-header-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* HERO */
+.hero {
+    background-color: #f3d7b7;
+}
+
+.hero-container {
+    width: 100%;
+    max-width: 1440px;
+    padding-left: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.hero-heading {
+    color: #000;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+
+.hero-text {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    margin-top: 0;
+    margin-bottom: 50px;
+    margin-right: 100px;
+}
+
+.hero-link {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    padding: 16px 24px;
+    border-radius: 100px;
+    background-color: #0a775f;
+}
+
+.hero-img {
+    width: 710px;
+    height: 696px;
+}
+
+/* FEATURE */
+.feature {
+    background-color: #F8F8F2;
+    margin: 20px;
+    padding-top: 50px;
+}
+
+.feature-container {
+    width: 100%;
+    max-width: 1440px;
+    padding-left: 143px;
+    padding-right: 143px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feature-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.feature-img-1 {
+    width: 450px;
+    height: 375px;
+    margin-right: 117px;
+}
+
+.feature-heading {
+    margin-top: 0;
+    margin-bottom: 80px;
+    color: #000;
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.feature-title {
+    color: #333;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.feature-text-1 {
+    color: #333;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px; 
+    margin: 0;
+}
+
+.feature-text-2 {
+    width: 453px;
+    color: #333;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px; 
+    margin: 0;
+    margin-right: 117px;
+}
+
+.feature-div {
+    margin-left: 157px;
+}
+
+/* CONTENT */
+.content {
+    background-image: url("../img/content\ background\ color\ \ \(1\).jpg");
+    background-color: #fff;
+    height: 700px;
+    margin: 20px;
+    padding-top: 50px;
+    margin-bottom: 300px;
+}
+
+.content-div {
+    color: #fff;
+    text-align: center;
+}
+
+.content-heading {
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.content-text {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; 
+    margin-top: 0;
+    margin-bottom: 80px;
+}
+
+.content-wrapper {
+    display: flex;
+}
+
+.content-wrapper-div {
+    margin-right: 20px;
+}
+
+.content-img {
+    width: 433px;
+    height: 500px;
+    display: block;
+    margin-bottom: 28px;
+}
+
+.content-title {
+    color: #333;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.content-text-2 {
+    color: #333;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; 
+    margin: 0;
+}
