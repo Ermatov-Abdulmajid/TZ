@@ -1,0 +1,15 @@
+I 2023-12-02 13:16:12.660651 [Main] {Main} Logging started for Battle.net build 2.27.0.14542
+I 2023-12-02 13:16:12.661046 [Configuration] {Main} SharedConfigRoot: C:\ProgramData\Battle.net
+I 2023-12-02 13:16:12.661263 [Configuration] {Main} RoamingConfigRoot: C:\Users\ermat\AppData\Roaming\Battle.net
+I 2023-12-02 13:16:12.661276 [Configuration] {Main} LocalConfigRoot: C:\Users\ermat\AppData\Local\Battle.net
+D 2023-12-02 13:16:12.661345 [Configuration] {Main} Searching for config file: D:\Downloads\Battle.net\Battle.net.14542\Battle.net.config
+D 2023-12-02 13:16:12.661378 [Configuration] {Main} Searching for config file: D:\Downloads\Battle.net\Battle.net.config
+D 2023-12-02 13:16:12.661613 [Configuration] {Main} User Configuration File: C:\Users\ermat\AppData\Roaming\Battle.net\Battle.net.config
+I 2023-12-02 13:16:12.663284 [Main] {Main} Command line arguments: {[0]=--game=auks, [1]=--gamepath=D:\Downloads\Call of Duty}
+I 2023-12-02 13:16:12.664538 [Main] {Main} Opening IPC shared memory. queueName=User:ermat:Battle.net IPC ShMem mode=client
+I 2023-12-02 13:16:12.664656 [CommandQueue] {Main} Dispatching Command: register auks D:\Downloads\Call of Duty   false
+I 2023-12-02 13:16:12.664683 [Main] {Main} Leaving because another instance of battle.net is running
+D 2023-12-02 13:16:12.664692 [Main] {Main} Shutting down Backend
+D 2023-12-02 13:16:12.664696 [Main] {Main} Closing IPC Service
+D 2023-12-02 13:16:12.664700 [CommandQueue] {Main} IPCService is shutting down
+D 2023-12-02 13:16:12.664724 [Main] {Main} Shutting down callback queue

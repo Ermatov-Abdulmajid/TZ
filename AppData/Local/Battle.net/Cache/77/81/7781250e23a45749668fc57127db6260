@@ -1,0 +1,1 @@
+{"fragment_id":"wlby_noaltcontent","products":[{"base":{"starter_items":[{"action":{"target":"shop","type":"url","url":"nydus://client/shop/product/crash-bandicoot-4"},"id":"buy_now_wlby","label":"default#STARTER_ITEM_BUY_NOW","rank":1,"style":"primary","type":"button"},{"hidden":true,"id":"website","type":"button"}]},"id":"WLBY"}],"strings":{},"version":29}

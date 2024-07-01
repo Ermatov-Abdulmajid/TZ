@@ -1,0 +1,1 @@
+{"fragment_id":"rtro_noaltcontent","products":[{"base":{"starter_items":[{"action":{"target":"shop","type":"url","url":"nydus://client/shop/product/blizzard-arcade-collection"},"id":"buy_now_rtro","label":"default#STARTER_ITEM_BUY_NOW","rank":1,"style":"primary","type":"button"}]},"id":"RTRO"}],"strings":{},"version":29}

@@ -1,0 +1,7 @@
+[1202/081444.289:ERROR:mf_audio_decoder.cc(714)] Unsupported codec by MfAudioDecoder: 12
+[1202/081610.946:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1202/081747.791:ERROR:mf_audio_decoder.cc(714)] Unsupported codec by MfAudioDecoder: 12
+[1202/081832.779:ERROR:shared_image_manager.cc(202)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1202/081832.780:ERROR:shared_image_manager.cc(202)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1202/081843.685:ERROR:mf_audio_decoder.cc(714)] Unsupported codec by MfAudioDecoder: 12
+[1202/093525.017:INFO:cef_logging.h(644)] BNET, sending query, close window

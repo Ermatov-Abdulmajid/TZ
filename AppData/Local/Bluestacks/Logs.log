@@ -1,0 +1,20 @@
+﻿2023-07-02 11:39:45.966 4820:00000001 (Unknown) INFO: Finding closest locale match to en-US
+2023-07-02 11:39:45.968 4820:00000001 (BlueStacksInstaller) INFO: Match found by region: en-US
+2023-07-02 11:39:46.672 4820:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "UZ", "latlong": "41.299496,69.240073"}
+2023-07-02 11:39:46.683 4820:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2023-07-02 11:39:46.683 4820:00000001 (BlueStacksInstaller) INFO: Using Nowgg cloud host: https://wallet.now.gg
+2023-07-02 11:39:49.613 4472:00000001 (Unknown) INFO: Finding closest locale match to en-US
+2023-07-02 11:39:49.613 4472:00000001 (BlueStacksInstaller) INFO: Match found by region: en-US
+2023-07-02 11:39:50.151 4472:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "UZ", "latlong": "41.299496,69.240073"}
+2023-07-02 11:39:50.166 4472:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2023-07-02 11:39:50.166 4472:00000001 (BlueStacksInstaller) INFO: Using Nowgg cloud host: https://wallet.now.gg
+2023-07-02 11:47:32.608 12500:00000001 (Unknown) INFO: Finding closest locale match to en-US
+2023-07-02 11:47:32.608 12500:00000001 (BlueStacksInstaller) INFO: Match found by region: en-US
+2023-07-02 11:47:33.625 12500:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "UZ", "latlong": "41.299496,69.240073"}
+2023-07-02 11:47:33.641 12500:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2023-07-02 11:47:33.641 12500:00000001 (BlueStacksInstaller) INFO: Using Nowgg cloud host: https://wallet.now.gg
+2023-07-02 11:47:45.102 5948:00000001 (Unknown) INFO: Finding closest locale match to en-US
+2023-07-02 11:47:45.102 5948:00000001 (BlueStacksInstaller) INFO: Match found by region: en-US
+2023-07-02 11:47:45.707 5948:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country": "UZ", "latlong": "41.299496,69.240073"}
+2023-07-02 11:47:45.723 5948:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2023-07-02 11:47:45.723 5948:00000001 (BlueStacksInstaller) INFO: Using Nowgg cloud host: https://wallet.now.gg

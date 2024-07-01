@@ -1,0 +1,2 @@
+[1202/181547.375:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1202/181620.668:INFO:cef_logging.h(644)] BNET, sending query, close window

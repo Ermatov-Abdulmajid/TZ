@@ -1,0 +1,32 @@
+{
+	"setting" : 
+	{
+		"effect_adjust_params" : 
+		[
+			{
+				"default" : 0.5,
+				"effect_key" : "effects_adjust_sharpen",
+				"max" : 1.0,
+				"min" : 0.0
+			},
+			{
+				"default" : 0.70,
+				"effect_key" : "effects_adjust_range",
+				"max" : 1.0,
+				"min" : 0.0
+			},
+			{
+				"default" : 0.8,
+				"effect_key" : "effects_adjust_filter",
+				"max" : 1.0,
+				"min" : 0.0
+			},
+			{
+				"default" : 0.5,
+				"effect_key" : "effects_adjust_blur",
+				"max" : 1.0,
+				"min" : 0.0
+			}
+		]
+	}
+}

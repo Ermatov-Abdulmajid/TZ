@@ -1,0 +1,1 @@
+{"fragment_id":"diablo_iii_noaltcontent","products":[{"base":{"starter_items":[{"action":{"type":"install"},"id":"try_for_free","label":"default#STARTER_ITEM_TRY_FOR_FREE","rank":1,"style":"primary","type":"button"},{"hidden":true,"id":"website","type":"button"}]},"id":"D3"}],"strings":{},"version":29}

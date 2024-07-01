@@ -1,0 +1,21 @@
+{
+    "effect_id": "3240367",
+    "file_url": {
+        "uri": "d3552b4e6be060a08af0438ab34d0d81",
+        "url_list": [
+            "https://lf19-effectcdn.byteeffecttos-g.com/obj/ies.fe.effect.alisg/d3552b4e6be060a08af0438ab34d0d81",
+            "https://lf16-effectcdn.byteeffecttos-g.com/obj/ies.fe.effect.alisg/d3552b4e6be060a08af0438ab34d0d81",
+            "https://lf16-effectcdn.byteeffecttos-g.com/obj/ies.fe.effect.alisg/d3552b4e6be060a08af0438ab34d0d81",
+            "https://lf19-effectcdn.byteeffecttos-g.com/obj/ies.fe.effect.alisg/d3552b4e6be060a08af0438ab34d0d81"
+        ]
+    },
+    "model_names": "{\"alg_model\":[\"tt_face\",\"tt_fsnew_base_jianying\",\"tt_freid\",\"tt_face_extra\"]}",
+    "name": "Slim nose",
+    "panel": "",
+    "requirements": [
+        "face",
+        "freid",
+        "blit"
+    ],
+    "resource_id": "7019182100469256705"
+}

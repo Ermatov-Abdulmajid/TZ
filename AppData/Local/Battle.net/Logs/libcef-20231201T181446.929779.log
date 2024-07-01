@@ -1,0 +1,9 @@
+[1201/231447.019:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Widevine Content Decryption Module (C:\Users\ermat\AppData\Local\CEF\User Data\WidevineCdm\4.10.2557.0).: The system cannot find the path specified. (0x3)
+[1201/231647.309:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1201/231838.143:INFO:cef_logging.h(644)] BNET, sending query, close window
+[1201/231919.733:INFO:cef_logging.h(644)] BNET, sending query, open client settings dialog
+[1201/232003.354:INFO:cef_logging.h(644)] BNET, sending query, open client settings dialog
+[1201/235004.371:INFO:cef_logging.h(644)] BNET, sending query, open client settings dialog
+[1201/235218.992:INFO:cef_logging.h(644)] BNET, sending query, open client settings dialog
+[1201/235525.729:INFO:cef_logging.h(644)] BNET, sending query, open client settings dialog
+[1202/001907.918:INFO:cef_logging.h(644)] BNET, sending query, close window

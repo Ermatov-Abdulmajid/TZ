@@ -1,0 +1,1 @@
+{"files":{},"fragment_id":"zeus_quick_link_manage_content","products":[{"base":{"types":{"retail":{"quick_links":[{"action":{"custom_action_id":"modify_install_packages","type":"custom_action"},"icon_v2":"default#QUICK_LINK_ICON_DOWNLOAD","id":"manage_content","label":"default#QUICK_LINK_MANAGE_CONTENT","rank":12,"show_on_web_ui":true}]}}},"id":"ZEUS"}],"strings":{},"version":29}

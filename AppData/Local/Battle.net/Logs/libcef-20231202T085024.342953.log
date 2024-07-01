@@ -1,0 +1,4 @@
+[1202/135225.021:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1202/135335.492:ERROR:mf_audio_decoder.cc(714)] Unsupported codec by MfAudioDecoder: 12
+[1202/152236.592:ERROR:mf_audio_decoder.cc(714)] Unsupported codec by MfAudioDecoder: 12
+[1202/152238.590:INFO:cef_logging.h(644)] BNET, sending query, close window

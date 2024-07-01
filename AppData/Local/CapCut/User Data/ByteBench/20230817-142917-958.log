@@ -1,0 +1,4 @@
+[2023-08-17 14:30:23.292] [file_logger] [error] BX:[IPCServer.cpp:closeAll:334] lm before close IPCServer time: 1692264623282
+[2023-08-17 14:30:23.293] [file_logger] [error] BX:[IPCServer.cpp:closeAll:338] close client...... time:1692264623282   cost0
+[2023-08-17 14:30:23.293] [file_logger] [error] BX:[IPCServer.cpp:closeAll:341] close IPCServer...... time:1692264623282   cost:0
+[2023-08-17 14:30:23.293] [file_logger] [error] BX:[IPCServer.cpp:closeAll:372] lm after close IPCServer,time: 1692264623282   cost:0

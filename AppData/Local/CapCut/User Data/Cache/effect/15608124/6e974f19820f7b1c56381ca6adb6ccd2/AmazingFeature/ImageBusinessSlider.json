@@ -1,0 +1,107 @@
+{
+	"ImageBusinessSlider" : 
+	{
+		"LV" : 
+		{
+			"blur" : 
+			{
+				"materialValue" : 
+				{
+					"12484304204947515880,7160975192420498343" : 
+					{
+						"T" : 
+						{
+							"entityName" : "surfaceBlur",
+							"maxValue" : 10.0,
+							"minValue" : 0.0010000000474974513
+						}
+					},
+					"13351895346291480636,13495123599261345172" : null,
+					"13709558817586901710,7827833601312119469" : 
+					{
+						"blurSize" : 
+						{
+							"entityName" : "blur1",
+							"maxValue" : 0.20000000298023224,
+							"minValue" : 0.0
+						}
+					},
+					"15007692541336552195,4177978161578254214" : null,
+					"7873504780669431594,15052584992586054314" : 
+					{
+						"blurSize" : 
+						{
+							"entityName" : "blur0",
+							"maxValue" : 0.20000000298023224,
+							"minValue" : 0.0
+						}
+					}
+				},
+				"sliderIntensity" : 50.0
+			},
+			"filter" : 
+			{
+				"materialValue" : 
+				{
+					"5640727965162726164,6200031378252171924" : 
+					{
+						"filterIns" : 
+						{
+							"entityName" : "result",
+							"maxValue" : 1.0,
+							"minValue" : 0.0
+						}
+					}
+				},
+				"sliderIntensity" : 80.0
+			},
+			"range" : 
+			{
+				"materialValue" : 
+				{
+					"5640727965162726164,6200031378252171924" : 
+					{
+						"blackEdgeIns" : 
+						{
+							"entityName" : "result",
+							"maxValue" : 2.0,
+							"minValue" : 0.0
+						},
+						"whiteEdgeIns" : 
+						{
+							"entityName" : "result",
+							"maxValue" : 0.0,
+							"minValue" : 2.0
+						}
+					}
+				},
+				"sliderIntensity" : 70.0
+			},
+			"sharpen" : 
+			{
+				"materialValue" : 
+				{
+					"13351895346291480636,13495123599261345172" : 
+					{
+						"blurSize" : 
+						{
+							"entityName" : "blur2",
+							"maxValue" : 4.5,
+							"minValue" : 0.0
+						}
+					},
+					"15007692541336552195,4177978161578254214" : 
+					{
+						"blurSize" : 
+						{
+							"entityName" : "blur3_edge",
+							"maxValue" : 4.5,
+							"minValue" : 0.0
+						}
+					}
+				},
+				"sliderIntensity" : 40.0
+			}
+		}
+	}
+}
