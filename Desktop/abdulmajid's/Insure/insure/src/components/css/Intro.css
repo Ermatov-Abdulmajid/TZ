@@ -1,0 +1,49 @@
+.intro {
+    background: rgb(45, 38, 64);
+}
+
+.intro__container {
+    padding-top: 126px;
+    padding-bottom: 160px;
+}
+
+.intro__heading {
+    position: relative;
+    margin: 55px 0 25px 0;
+}
+
+.intro__heading::before {
+    content: "";
+    position: absolute;
+    top: -55px;
+    width: 100%;
+    max-width: 230px;
+    border: 2px solid rgb(250, 250, 250);
+}
+
+.intro__info {
+    margin-bottom: 25px;
+}
+
+.intro__image {
+    position: absolute;
+}
+
+@media only screen and (max-width: 992px) {
+    .intro__container {
+        text-align: center;
+        gap: 30px;
+    }
+
+    .intro__heading::before {
+        left: calc(50% - 115px);
+    }
+
+    .intro__info {
+        margin-bottom: 50px !important;
+    }
+
+    .intro__image {
+        position: static;
+    }
+}
