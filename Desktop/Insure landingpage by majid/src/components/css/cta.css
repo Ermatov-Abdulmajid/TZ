@@ -1,0 +1,12 @@
+.cta__container {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: #2d2640;
+}
+
+.cta__heading {
+    font-size: 50px !important;
+    line-height: 55px !important;
+    width: 100%;
+    max-width: 440px;
+}

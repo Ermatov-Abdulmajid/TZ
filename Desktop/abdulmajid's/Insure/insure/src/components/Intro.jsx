@@ -1,13 +1,15 @@
 import "../App.css";
-import "../components/css/Intro.css"
+import "../components/css/Intro.css";
 import imageIntro from "../assets/image-intro-desktop.jpg";
-import ("../assets/")
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // You can also use <link> for styles
+AOS.init();
 
 export default function Intro() {
   return (
     <section className="intro">
-      <div className="intro__container container row flex-lg-row flex-column-reverse">
-        <div className="intro__inner col-12 col-lg-6">
+      <div className="intro__container container row d-flex justify-content-between flex-lg-row">
+        <div className="intro__inner intro__about col-12 col-lg-6"  data-aos="fade-left">
           <h1 className="intro__heading">Humanizing your insurance.</h1>
           <p className="intro__info">
             Get your life insurance coverage easier and faster. We blend our
@@ -19,7 +21,7 @@ export default function Intro() {
           </a>
         </div>
 
-        <div className="intro__inner col-12 col-lg-6">
+        <div className="intro__inner intro__image-wrapper  col-12 col-lg-6"  data-aos="fade-right">
           <img className="intro__image" src={imageIntro} alt="" />
         </div>
       </div>

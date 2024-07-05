@@ -6,6 +6,8 @@ import hamburger from "../assets/icon-hamburger.svg";
 import close from "../assets/icon-close.svg";
 import "bootstrap/dist/css/bootstrap.css";
 
+
+
 const Header = () => {
   const [isMobileMenuOpen, setMobileMenuOpen] = useState(false);
 
@@ -15,7 +17,7 @@ const Header = () => {
 
   return (
     <>
-      <header className="header">
+      <header className="header" data-aos="fade-top">
         <div className="header-container container pt-4 pb-5">
           <a className="logo-link" href="index.html">
             <img

@@ -1,5 +1,6 @@
 [user]
+	name = Abdulmajid
 	email = ermatovabdumajid23@gmail.com
-	name = Ermatov-Abdulmajid
-	name = Ermatov-Abdulmajid
-	email = ermatovabdumajid23@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
+	autocrlf = true

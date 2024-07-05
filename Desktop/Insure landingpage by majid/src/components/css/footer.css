@@ -1,0 +1,30 @@
+.footer__container {
+  padding-top: 88px;
+  padding-bottom: 182px;
+}
+
+.footer__inner:first-child {
+  margin-bottom: 70px;
+}
+
+.footer__socials-item:not(:last-child) {
+  margin-right: 20px;
+}
+
+.footer__item:not(:last-child) {
+  margin-bottom: 23px;
+}
+
+.footer__item-tile {
+  color: rgb(131, 125, 135);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 23px;
+  margin-bottom: 23px;
+}
+
+.footer__link {
+  color: rgb(43, 39, 47);
+  font-family: "Karla", "Arial", sans-serif !important;
+  font-weight: 500;
+}

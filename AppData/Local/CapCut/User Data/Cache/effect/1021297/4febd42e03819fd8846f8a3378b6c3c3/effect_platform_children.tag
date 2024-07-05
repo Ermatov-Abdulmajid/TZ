@@ -1,1 +1,0 @@
-/config.json,/extra.json,/GESticker_swirl/content.json,/GESticker_swirl/generalEffect/generalEffect.json,/GESticker_swirl_2/content.json,/GESticker_swirl_2/generalEffect/generalEffect.json,/resource/shader/CrossZoom.frag,/resource/shader/CrossZoom.vert,/resource/shader/pass0.frag,/resource/shader/pass0.vert,/resource/shader/pass1.frag,/resource/shader/pass1.vert,/template.json
