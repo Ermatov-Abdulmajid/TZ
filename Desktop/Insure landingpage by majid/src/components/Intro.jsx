@@ -6,7 +6,9 @@ export default function Intro() {
   return (
     <section className="intro">
       <div className="intro__container container row d-flex justify-content-between flex-lg-row">
-        <div className="intro__inner intro__about col-12 col-lg-6"  data-aos="fade-left">
+        <div
+          className="intro__inner intro__about col-12 col-lg-6"
+          data-aos="fade-left">
           <h1 className="intro__heading">Humanizing your insurance.</h1>
           <p className="intro__info">
             Get your life insurance coverage easier and faster. We blend our
@@ -18,7 +20,9 @@ export default function Intro() {
           </a>
         </div>
 
-        <div className="intro__inner intro__image-wrapper  col-12 col-lg-6"  data-aos="fade-right">
+        <div
+          className="intro__inner intro__image-wrapper  col-12 col-lg-6"
+          data-aos="fade-right">
           <img className="intro__image" src={imageIntro} alt="" />
         </div>
       </div>

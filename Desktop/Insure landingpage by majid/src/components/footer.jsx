@@ -35,22 +35,30 @@ const Footer = () => {
           <div className="footer__list d-flex flex-column justify-content-start align-items-center justify-content-md-start align-items-md-start col-12 col-sm-6 col-md-3">
             <h5 className="footer__item-tile">OUR COMPANY</h5>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 HOW WE WORK
               </a>
             </div>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 WHY INSURE?
               </a>
             </div>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 VIEW PLANS
               </a>
             </div>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 REVIEWS
               </a>
             </div>
@@ -59,22 +67,30 @@ const Footer = () => {
           <div className="footer__list d-flex flex-column justify-content-start align-items-center justify-content-md-start align-items-md-start col-12 col-sm-6 col-md-3">
             <h5 className="footer__item-tile">HELP ME</h5>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 FAQ
               </a>
             </div>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 TERMS OF USE
               </a>
             </div>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 PRIVACY POLICY
               </a>
             </div>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 COOKIES
               </a>
             </div>
@@ -83,17 +99,23 @@ const Footer = () => {
           <div className="footer__list d-flex flex-column justify-content-start align-items-center justify-content-md-start align-items-md-start col-12 col-sm-6 col-md-3">
             <h5 className="footer__item-tile">CONTACT</h5>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 SALES
               </a>
             </div>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 SUPPORT
               </a>
             </div>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 SUPPORT
               </a>
             </div>
@@ -102,17 +124,23 @@ const Footer = () => {
           <div className="footer__list d-flex flex-column justify-content-start align-items-center justify-content-md-start align-items-md-start col-12 col-sm-6 col-md-3">
             <h5 className="footer__item-tile">OTHERS</h5>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 CAREERS
               </a>
             </div>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 PRESS
               </a>
             </div>
             <div className="footer__item">
-              <a className="footer__link text-decoration-none text-nowrap" href="#">
+              <a
+                className="footer__link text-decoration-none text-nowrap"
+                href="#">
                 LICENSES
               </a>
             </div>
