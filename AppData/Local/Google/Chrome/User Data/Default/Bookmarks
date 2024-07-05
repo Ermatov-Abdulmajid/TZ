@@ -1,0 +1,137 @@
+{
+   "checksum": "6c1855299b657e9b7ed5cb90db80cef9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13324869441701380",
+            "date_last_used": "13364321761718042",
+            "guid": "476e031c-703f-471c-a30c-a89e2ee18957",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13302538725155788",
+            "date_last_used": "0",
+            "guid": "5e011292-3c79-42bf-b3b2-f00c87ba9d81",
+            "id": "9",
+            "name": "",
+            "type": "url",
+            "url": "https://translate.google.com/?hl=ru&sl=en&tl=uz&op=translate"
+         }, {
+            "date_added": "13333858509355193",
+            "date_last_used": "13364321726310946",
+            "guid": "dd552219-a6f0-4841-9cca-a0a729e84a06",
+            "id": "59",
+            "name": "",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13338099409974173",
+            "date_last_used": "13364573640675814",
+            "guid": "43133993-c0d2-4cca-8af5-9c370ce66299",
+            "id": "78",
+            "name": "main",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         } ],
+         "date_added": "13324869437592184",
+         "date_last_used": "0",
+         "date_modified": "13338099409974173",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13324869437592186",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13251994954122497",
+            "date_last_used": "0",
+            "guid": "0135f826-3e88-461f-af3b-d15f0fdc73d2",
+            "id": "18",
+            "name": "Авиабилеты",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=467&clid=2256161-911&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13251994954122511",
+            "date_last_used": "0",
+            "guid": "f61a91f7-c58c-4972-b5d7-a636fbcbe593",
+            "id": "19",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=467&clid=2256161-911&from=dist_bookmark"
+         }, {
+            "date_added": "13326288718179600",
+            "date_last_used": "0",
+            "guid": "610dd1d7-81f6-4a47-a4c9-0a03cf4d349d",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn English Online",
+            "type": "url",
+            "url": "https://learnenglish.britishcouncil.org/"
+         }, {
+            "date_added": "13334135979860947",
+            "date_last_used": "0",
+            "guid": "cbdf3d25-72bf-40ec-8d35-6e66db5eff06",
+            "id": "91",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.ya.ru/?win=603&clid=2668209-86&from=dist_bookmark"
+         }, {
+            "date_added": "13334135979860976",
+            "date_last_used": "0",
+            "guid": "de4a3f91-69db-481a-bfa1-f480a6099116",
+            "id": "90",
+            "name": "Яндекс Маркет",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=603&clid=2668217-86"
+         }, {
+            "date_added": "13345905356003182",
+            "date_last_used": "0",
+            "guid": "401b63f4-1a3e-438e-abf9-7a88980a9530",
+            "id": "93",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/webhp?authuser=1"
+         }, {
+            "date_added": "13347789239980068",
+            "date_last_used": "0",
+            "guid": "5be814d5-5e6b-4cba-80e2-1a20d5eb8e30",
+            "id": "95",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New tab",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         } ],
+         "date_added": "13324869437592188",
+         "date_last_used": "0",
+         "date_modified": "13347789239980068",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqwBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCRSGm/9rHAYAERSGm/9rHAYAKZgWnP9rHAYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgHd/+mscBgARgHd/+mscBgApygWc/2scBgAwgO/907+NhwMSACoYQzBjQWpFWDVkWmVGT1lxUHM1Z2RtZz09SAMgARLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnc2NEgvNVcyMk14N1ZQZjcrc3haZjNVeFVaeG1HcENjRGpSTXFJb2lnZU96WWZjdVkrWW41dnZsaWhsbkNNV2tkMWM1UXB5VnpFN0NTYkdoWWtIbTVwYkZ4MUFBPT0YACAAKAAwxN/UnvuJ/gI4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLsAQgVEucBChxiaEkvUmwxVGNnK05xc3pnellKQTF6L2FubEE9EmZaOkFEcXRBWnh5WEdzMmJmMnJrbGVHRWQ1UFZjZWhCZ2srTm92RjlFMGxQSzhqdDlHcVNJUkxTdFNqOVJ1UXNGRkQ3Q2RHY1VpaXdsclU2bytvSy94VE9LUVZ0QmlCcFlFSk13PT0YACAAKAAw4MvLyZOagwM458L4n/kwQO+RqPrHMUocem9XbDdWbkllWUVOTkFKckxIRjhjNXpDZWV3PVofIh3eRGNOU09Jb0d6NDdmdVRzNStFTXFnZ2VYdk9FPWWqwpvtEq0CCBMSqAIKHEp4b3dQR2E0ZWFtdGpjRGFqUTJLYmRqVFFZUT0SpgFaOkFEcXRBWnd4SkpyT2luSVo2SjFqdjRWQ1BGUEZKa0hnN25UamJ5dStYVFZEVytMa3NUYVprWGRQSUZEQlBFMW5tTDhlRk9kdGtFeGVKUm5vcjFybzVCVHhNUHdaOVRKNWYrd0lFUnliTDNkQnkrdWNMU204VE5BVS9EYTIxVmI0NGNQb2o2WUxLQzM1THFnOG5iVUJHL3ludkR2SlRXWkRYZz09GAAgACgAMO6Cy8iF1IIDOMTT9b3kLkCu/9H9vjFKHG53VEk2b3lQUmowS3BjWUhub3VBRXphSHg0RT1aHyIdvHNHNlJRY2ZhdW5waG1ZYjZZVk03VldLNHhzdz1lDar1DBL0AQg7Eu8BChxabzVrbXR4WlJwZG9tOG8zZVNmRzk2UG12YlE9EmZaOkFEcXRBWnh5WEdzMmJmMnJrbGVHRWQ1UFZjZWhOTDhabXRlVk1MWURqS3ZXdXcvSHRnSVpXeld1bjJ6RGNlL0xBYnpueW9nTTVaVVJnSTZMd1JLUnV6L29obTlybkdGT3ZnPT0YACAHKAcwqseDnvGMhwM4rPS/uZUxQMGtxOWHMkocYmV4NklyRXZrYjg2R1NORTRZcy8zY2h0Tk1ZPVonIiX/////AAAABPYxR29vZm5RWUx1eXpldEt4eklWUFU0b0ZPOTg9ZVJ8zXkS9AEIThLvAQocY1krOHkzNWEyajZ3YmhpcEpBVzVHY29XTHFrPRJmWjpBRHF0QVp4eVhHczJiZjJya2xlR0VkNVBWY2VodlFXbjVOU2l0blRhaFh2UE9PR3FhYzFYVjZqYUJTLzg3VmY0M0J3TllvbERJZzRLM2NpWitJN1UyREV2SFlXYVdMa25MZz09GAAgDCgMMN27nLqWhocDOLb425+lMUChmM73hjJKHEh0eXRDWnZGblQ3R0prd1VmVlVodlQ2elVGcz1aJyIl/////wAAAAX7em1uZ3hrRFNjZFpBRFBpYnNVQkNCVUZCL1drPWU4+TkzEuwBCAkS5wEKHDBVS0FKRzZjR3kxMjBTMy9TUm4wQUtQbWtuUT0SZlo6QURxdEFaeHlYR3MyYmYycmtsZUdFZDVQVmNlaGJMMUw4YitFbHdXaTBTRFo2SlQ2Uk5kWHRJOVN3QXpPVjUvcEQ2Q0c4V0gyUmdUNmloSXJuSDVFYW1GZXplNXBZQzdXUVE9PRgAIAUoBTDmrLHQlN6CAzik/ofjoDBAn7u0o8AxShwxeVBKNElENXVxakRWZGxSNWNsN0dFNEdVQ009Wh8iHf1RWCtSL1haeDhRODJ0aTF3R2NuMHc0Y1hXQzQ9ZQ7WbpoS7AEIWxLnAQoceDVoY2xhaTJJYXZxaEVjTTBFN08xMVRTNWVzPRJmWjpBRHF0QVp4eVhHczJiZjJya2xlR0VkNVBWY2VoMFZOT3JnM3p6T2QyclF4TFQ2ZnBKQko1SUEvL09NWG5BcEhrZm1SMU13eFpXcHFZV2x5RGNzY0lCVnVyenBTMm5jY09GZz09GAAgACgAMKKoyNe4i4EDOIPYz6OlMUCD2M+jpTFKHHBwOUFyL0x3VlZDeUxNZG90dWFJVWw1a2hMST1aHyId70Frb1pKZFY4SEpIOGlyYmhsYXFCQzBtRGZjWT1lAAAAABLrAQgFEuYBChxaNFh0TC9VUGttNmZGdUxVVzdtZFphTHVlVjA9EmZaOkFEcXRBWnh5WEdzMmJmMnJrbGVHRWQ1UFZjZWhVenFnR1o5YlRZOXNRWjU3Q0VhNHlBanE2b1ZwRkRZSlAyM0MraVJrdU9TMTBldXlDZi9OYmEwaTFxZjZodEdyakJRMFhRPT0YACAKKAowvKb4rZXThQM4pdCm+/MwQNj73YLwMUocYkhqL0llYUNDWFZJaVpMV3hnN1pqUkhLNUFZPVoeIhw4dlNGOXFMY3NoS1d5alBwcnI3bkx3SVpVRFU9ZZs9hbYSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4b1dmS2xqQTZqUForRFN0OU9YbmEzTVdvZlVtbjZrYVNsRW5XQnZIZ2ROY015cGRTRkwxdnI1RWNyNFRxVVVqWUdac0pHGAAgACgAMMTf1J77if4COABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASrAIIEhKnAgocZ0VXUHlHU0dENE15bnA2S250SS85blE0ZmNFPRKmAVo6QURxdEFad3hKSnJPaW5JWjZKMWp2NFZDUEZQRkprSGc3blRqYnl1K1hUVkRXK0xrc1c2LzVTRW1ITjBPNzE5Z2ptNDBWcURTcSs2RVQ2VnBhV2tPTHFkN0tiT0RYNGZDRHduV1FncnBiZ1NTaThjcTBMUVk0NVJwRm8rcHk0NlNGQ2NuMDlFd2VxaFJwTSs4YWVqWXg5dWFzcm9UUmdySCtRPT0YACAAKAAw5q7xkNmj/AI4xNP1veQuQMTT9b3kLkocRlQxRktXc0xyTUx5U0o1ZWFGNlBCUnEvamlrPVoeIhx5Uk5JZ0Q5RWwwWm9zTzd0dVdsK0lzRTRIKzQ9ZUkaF8IS7AEIXRLnAQocWlBEVk9URStnakQvbXB1REcyTkcrdXVla3VnPRJmWjpBRHF0QVp4eVhHczJiZjJya2xlR0VkNVBWY2Vob3p2ZDZhSk1VVk0zVEduaXl6dVJlNFdJakdhVzErT0o1dlZobEJJMFBsWkt0VjVCc01ack1CSW5Wc05vS1EwNVdGRlQ0dz09GAAgACgAMITRiLjVpIMDOOaJ8anCMUCu4cqmyTFKHFFURFZhZGhlQSt2cFNLUmtkcVoydUxIQmlHYz1aHyId+1FvM2ZsT0hvMjNiV1dSSDk3OXA2UDd4SlVRdz1lfwdB+xLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnkxQ2pEclJNVXV3Y2NRZDgrOGhETTd0eEVtVHpaNVpCU0ZGK25oT2gwQnlMeW1sNFBldlNnTXVEMUVsTEZLUnlScHlPTklRSEdjeVNQY3RVcktDQ3A5QUl2eE9BPT0YACAAKAAwxN/UnvuJ/gI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLsAQhaEucBChxOaHpmNHpSWVRYcW13Y3hpMzBlUFN4cVJoTUU9EmZaOkFEcXRBWnh5WEdzMmJmMnJrbGVHRWQ1UFZjZWhVdTFtbjVqZGFxTzFYRTVPMktTLzIyVHJGQkhtQlhJZWxBQkJsRUZscVhHOENrNVRQMTlyUDdLb0ZUd09hWGpBRjVvYlpRPT0YACAAKAAwoqjI17iLgQM4g9jPo6UxQIPYz6OlMUocaHVWL2hPeExoZE9zMnZSUHJZbDloQm9mamg0PVofIh33K0dxWDJONjVZRUZzUytReE5DUll6NlRLd0ZVPWUAAAAAEuwBCF8S5wEKHFhpaFovZWRMMHRjbWVNajhYc3YrbTIvZFgzaz0SZlo6QURxdEFaeHlYR3MyYmYycmtsZUdFZDVQVmNlaFlldXJsWGpieDBtYk5aWWozTkh6cG9oREVUbDVHMXpSZTg1NmNxUEU1UnhVYjA3NFJJVkladkhLQzI1Q3NDaXBnSUZIWVE9PRgAIAAoADCSvKOdgaWDAziunZisyTFArp2YrMkxShx4Wi83WDJNbEJDWlcvOFhMeXhqT0VuZkJmZDg9Wh8iHf1tVkw5VGtWbWZUUGhhRTFHejNOTm52YUhvUDg9ZQAAAAAwATgA",
+   "version": 1
+}

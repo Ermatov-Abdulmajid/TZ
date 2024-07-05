@@ -1,0 +1,510 @@
+05/15/2024 19:46:31 - ************
+05/15/24 19:46:31 - DD 5.5.900.0
+05/15/24 19:46:31 - DDCore.dll 5.5.900.0
+05/15/24 19:46:31 - Service 0.1.2.52, running False
+05/15/2024 19:46:31 - Operating System Name  :  Microsoft Windows 11 Enterprise
+05/15/2024 19:46:31 - Operating System Architecture  :  64-bit
+05/15/24 19:46:32 - Dokan driver: 400, DLL: 151
+05/15/24 19:46:32 - Language: en
+05/15/24 19:46:32 - LogVerbosity: normal
+05/15/24 19:46:35 - response: {
+	"hid" = "6010_-275668754_629907131_1680375296_2135435760";
+	"license_key_code" = "EA399-79823-EDCA6-BB3AE-3DECE";
+	"licenseName" = "Basic";
+	"product_id" = "114";
+	"product_name" = "Disk Drill for Windows";
+	"product_version" = "5";
+	"serverDate" = "2024-05-15T14:46:34Z";
+	"serverTime" = "1715784394";
+	"activationDate" = "2024-05-14T19:00:00Z";
+	"nextActivation" = "2024-05-15T19:00:00Z";
+	"firstActivation" = "2024-05-15";
+	"errorCode" = "0";
+	"registed_name" = "demo";
+	"key_type" = "1";
+}
+
+05/15/2024 19:46:35 - *************
+05/15/2024 19:46:35 - Activator state:             ACTIVATION_OK
+05/15/2024 19:46:35 - Activator key:               EA399-79823-EDCA6-BB3AE-3DECE
+05/15/2024 19:46:35 - Activator Reactivation Date: 5/16/2024 12:00:00 AM
+05/15/2024 19:46:35 - Activator license:           Basic
+05/15/2024 19:46:35 - Activator HID:               6010_-275668754_629907131_1680375296_2135435760
+05/15/2024 19:46:35 - Activator reg name:          demo
+05/15/2024 19:46:35 - *************
+05/15/2024 19:46:36 - [DDTelemetry]: GAT Change permission from False to True.
+05/15/2024 19:46:36 - [DDTelemetry]: GAT Start gathering analytics.
+05/15/2024 19:46:39 - [DDTelemetry]: GAT Change permission from True to True.
+05/15/24 19:46:39 - [iOS] Itunes (ProgramFiles) is not installed
+05/15/24 19:46:39 - [iOS] Initialization failure. Could not find iTunes installation
+05/15/2024 19:46:39 - DiskEnumStart_CallBack
+05/15/2024 19:46:39 - Activator restored: 0 bytes
+05/15/2024 19:46:39 - DiskEnumEnd_CallBack
+05/15/2024 19:46:40 - DiskEnumStart_CallBack
+05/15/24 19:46:40 - disk \\?\scsi#disk&ven_nvme&prod_imation_m.2_pcie#4&4e4e240&0&020000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+0
+05/15/24 19:46:40 - physicalNumber 0
+05/15/24 19:46:40 - seekPenalty=N
+05/15/24 19:46:40 - TRIM = Y
+05/15/24 19:46:40 - serialNumber 6479_A74A_1050_1587.
+2024-05-15 19:46:40.000 [BTRFS] [TID=7864] [INFO]: BtrfsFileSystem::LoadSuperBlock> Invalid SuperBlock magic: 0x0000000000000000
+05/15/24 19:46:40 - found volume \\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#00000018fb600000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+05/15/24 19:46:40 - Offset: 107296587776, Size: 914358272
+05/15/24 19:46:40 - found volume \\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000001932000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+05/15/24 19:46:40 - Offset: 108213043200, Size: 403896795136
+05/15/24 19:46:40 - volume dos path D:\, label Local Disk (D:)
+05/15/24 19:46:40 - found volume \\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+05/15/24 19:46:40 - Offset: 1048576, Size: 104857600
+05/15/24 19:46:40 - found volume \\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000007500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+05/15/24 19:46:40 - Offset: 122683392, Size: 107173560320
+05/15/24 19:46:40 - volume dos path C:\, label Local Disk (C:)
+05/15/24 19:46:40 - *added 6 items:
+05/15/24 19:46:40 - *added 6 items:
+[RAID QUICK] [TID=11044] Log level is: 00000003
+2024-05-15 19:46:40.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::RaidQuickScanner> ctor
+05/15/24 19:46:40 - DTInternalDisk 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	sector size: 512,
+	path: '\\?\scsi#disk&ven_nvme&prod_imation_m.2_pcie#4&4e4e240&0&020000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}',
+	physical: 0,
+	serial: 6479_A74A_1050_1587.,
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-512110190592,
+	fs: RAW, bus: RAID, size: 512110190592
+2024-05-15 19:46:40.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 00000240831C5E70
+05/15/24 19:46:40 - DTPartition 'NO NAME',
+	from: 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-1048576-104857600,
+	fs: FAT32, size: 104857600, offset: 1048576, cluster size: 1024, count: 98304
+05/15/24 19:46:40 - DTPartition 'Microsoft reserved partition',
+	from: 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	path: '[null]',
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-105906176-16777216,
+	fs: RAW, size: 16777216, offset: 105906176
+05/15/24 19:46:40 - DTVolume 'Local Disk (C:)',
+	from: 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000007500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-122683392-107173556224,
+	dos: C:\,
+	fs: NTFS, size: 107173556224, offset: 122683392, cluster size: 4096, count: 26165419
+05/15/24 19:46:40 - DTPartition 'Microsoft recovery partition',
+	from: 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#00000018fb600000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-107296587776-914354176,
+	fs: NTFS, size: 914354176, offset: 107296587776, cluster size: 4096, count: 223231,
+	system: yes
+05/15/24 19:46:40 - DTVolume 'Local Disk (D:)',
+	from: 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000001932000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-108213043200-403896791040,
+	dos: D:\,
+	fs: NTFS, size: 403896791040, offset: 108213043200, cluster size: 4096, count: 98607615
+2024-05-15 19:46:40.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 0000024084C506A0
+2024-05-15 19:46:40.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 0000024084C50850
+2024-05-15 19:46:40.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 0000024084C50250
+2024-05-15 19:46:40.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 0000024084C50250
+2024-05-15 19:46:40.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 0000024084C507F0
+2024-05-15 19:46:40.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::Analyze> Start analysis
+2024-05-15 19:46:40.000 [RAID] [TID=11044] [INFO]: MdScanner::Analyze> Start Mdadam analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: MdScanner::Analyze> Found raids: 0
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: MdScanner::Analyze> Finish Mdadm analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: LdmScanner::Analyze> Start Ldm analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: LdmScanner::Analyze> Found raids: 0
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: LdmScanner::Analyze> Finish Ldm analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: SsScanner::Analyze> Start Storage Spaces analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: SsScanner::AnalyzeSuperBlocks> Start SuperBlock analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: SsScanner::AnalyzeSuperBlocks> Finish SuperBlock analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: SsScanner::AnalyzeSpaceLogs> Start SpaceLog analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: SsScanner::AnalyzeSpaceLogs> Found SpaceLog raids: 0
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: SsScanner::AnalyzeSpaceLogs> Finish SpaceLog analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: SsScanner::AnalyzeRaids> Start raid analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: SsScanner::AnalyzeRaids> Found raids: 0
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: SsScanner::AnalyzeRaids> Finish raid analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: SsScanner::Analyze> Finish Storage Spaces analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: ArScanner::Analyze> Start AppleRaid analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: ArScanner::Analyze> Found raids: 0
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: ArScanner::Analyze> Finish AppleRaid analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: BtrfsScanner::Analyze> Start analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: BtrfsScanner::AnalyzeSuperBlocks> Start SuperBlock analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: BtrfsScanner::AnalyzeSuperBlocks> Finish SuperBlock analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: BtrfsScanner::AnalyzeRaids> Start raid analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: BtrfsScanner::AnalyzeRaids> Finish raid analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: BtrfsScanner::Analyze> Finish analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::AnalyzeNestedRaids> Start nested raids analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::AnalyzeNestedRaids> Finish nested raids analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::Analyze> Total found raids: 0
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::Analyze> Finish analysis
+2024-05-15 19:46:41.000 [RAID] [TID=11044] [INFO]: RaidQuickScanner::~RaidQuickScanner> dtor
+05/15/2024 19:46:41 - DiskEnumEnd_CallBack
+05/15/24 19:46:45 - 
+05/15/24 19:46:45 - Pd=0, Model=imation M.2 PCIe 512GB SSD X831B, Serial=X831BM2113-000001, FirmwareRev=EDFMB0.5, SmartCapable=1
+05/15/24 19:46:45 - SMART_DiskSize=0 MB; DiskSize=488386 MB
+05/15/24 19:46:45 - SMART_SectorSize:logical=512;physical=512; SectorSize=512
+05/15/24 19:46:45 - Temperature=46C
+05/15/24 19:46:45 - Temperature status=1
+05/15/24 19:46:45 - Disk status=Good (Health: 99%)
+05/15/24 19:46:45 - Disk Uptime=8255
+05/15/24 19:46:45 - Disk Power Cycles=1415
+05/15/24 19:46:45 - Health=99% (status=1)
+05/15/24 19:46:45 - Life=99%
+05/15/24 19:46:45 - HostReads=13.08 TB
+05/15/24 19:46:45 - HostWrites=8.24 TB
+05/15/24 19:46:45 - Disk vendor=nv
+05/15/24 19:46:45 - ID=01; CUR=000; WRST=000; THRS=000; RAW=000000000000 (0) NAME=Critical Warning
+05/15/24 19:46:45 - ID=02; CUR=000; WRST=000; THRS=000; RAW=00000000013F (319) NAME=Composite Temperature
+05/15/24 19:46:45 - ID=03; CUR=000; WRST=000; THRS=000; RAW=000000000064 (100) NAME=Available Spare
+05/15/24 19:46:45 - ID=04; CUR=000; WRST=000; THRS=000; RAW=000000000005 (5) NAME=Available Spare Threshold
+05/15/24 19:46:45 - ID=05; CUR=000; WRST=000; THRS=000; RAW=000000000001 (1) NAME=Percentage Used
+05/15/24 19:46:45 - ID=06; CUR=000; WRST=000; THRS=000; RAW=000000AC8A69 (28084841) NAME=Data Units Read
+05/15/24 19:46:45 - ID=07; CUR=000; WRST=000; THRS=000; RAW=0000000DE6C0 (17688256) NAME=Data Units Written
+05/15/24 19:46:45 - ID=08; CUR=000; WRST=000; THRS=000; RAW=0000008F5049 (395268169) NAME=Host Read Commands
+05/15/24 19:46:45 - ID=09; CUR=000; WRST=000; THRS=000; RAW=000000FB218C (268116364) NAME=Host Write Commands
+05/15/24 19:46:45 - ID=0A; CUR=000; WRST=000; THRS=000; RAW=000000000697 (1687) NAME=Controller Busy Time
+05/15/24 19:46:45 - ID=0B; CUR=000; WRST=000; THRS=000; RAW=000000000587 (1415) NAME=Power Cycles
+05/15/24 19:46:45 - ID=0C; CUR=000; WRST=000; THRS=000; RAW=00000000203F (8255) NAME=Power On Hours
+05/15/24 19:46:45 - ID=0D; CUR=000; WRST=000; THRS=000; RAW=000000000023 (35) NAME=Unsafe Shutdowns
+05/15/24 19:46:45 - ID=0E; CUR=000; WRST=000; THRS=000; RAW=000000000000 (0) NAME=Media and Data Integrity Errors
+05/15/24 19:46:45 - ID=0F; CUR=000; WRST=000; THRS=000; RAW=0000000017AC (6060) NAME=Number of Error Information Log Entries
+05/15/2024 19:47:09 - UseAdaptiveIgnoreStructure: True
+05/15/2024 19:47:09 - Bad blocks count before start scan: 0
+05/15/24 19:47:09 - The support of SSE2 instructions was detected
+05/15/24 19:47:09 - The support of AVX2 instructions was detected
+05/15/24 19:47:09 - The support of AVX512F instructions was detected
+05/15/24 19:47:09 - The support of AVX512F instructions was enabled
+05/15/2024 19:47:10 - Preview mount to: C:\Users\ermat\AppData\Local\Temp\tmpA0AA.tmp
+05/15/24 19:47:10 - [SCAN] Start megascan for 'DTVolume 'Local Disk (C:)',
+	from: 'imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000007500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: X831BM2113-000001-imation M.2 PCIe 512GB SSD X831B-122683392-107173556224,
+	dos: C:\,
+	fs: NTFS, size: 107173556224, offset: 122683392, cluster size: 4096, count: 26165419', imgInfo 000002408AF90040
+05/15/24 19:47:10 -   free space only: 1
+05/15/24 19:47:10 - [SCAN] quick "DTVolume 'Local Disk (C:)',
+	from: 'imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000007500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: X831BM2113-000001-imation M.2 PCIe 512GB SSD X831B-122683392-107173556224,
+	dos: C:\,
+	fs: NTFS, size: 107173556224, offset: 122683392, cluster size: 4096, count: 26165419"
+05/15/24 19:47:10 - Quick Ntfs
+[NTFS QUICK] [TID=11908] Log level is: 00000003
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsQuickScanner::NtfsQuickScanner> ctor
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsQuickScanner::Init> NTFS file system found
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsMftCache::LoadMft> $Mft is too big to fit in the cache: 831258624
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsFileSystem::DumpNtfsInfo> Volume ID: 129cbf23
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsFileSystem::DumpNtfsInfo> Bytes Per Sector: 200
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsFileSystem::DumpNtfsInfo> Bytes Per Cluster: 1000
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsFileSystem::DumpNtfsInfo> Bytes Per Mft Entry: 400
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsFileSystem::DumpNtfsInfo> Clusters Per Mft Entry: 0
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsFileSystem::DumpNtfsInfo> Mft Max: c6300
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsFileSystem::DumpNtfsInfo> Bytes Per Index Entry: 1000
+05/15/24 19:47:10 - Mounted('<null>', {<null>, False, False, False, False, #0, False, False}) -> Success
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsLogFile::Init> LogFile version: 2.0
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsLogFile::Parse> Parsing is started
+05/15/2024 19:47:10 - Preview mount point detected at C:\Users\ermat\AppData\Local\Temp\tmpA0AA.tmp\
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsLogFile::Parse> Found 392024 LogRecords
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsLogFile::Parse> Parsing is completed
+2024-05-15 19:47:10.000 [NTFS] [TID=11908] [INFO]: NtfsLogFile::Parse> Scanning is started
+2024-05-15 19:47:11.000 [NTFS] [TID=11908] [INFO]: NtfsLogFileFilesScanner::ScanRecords> Found 1831 files and 1108 deleted files
+2024-05-15 19:47:11.000 [NTFS] [TID=11908] [INFO]: NtfsLogFileNameScanner::Scan> Found 4679 FileNameInfo
+2024-05-15 19:47:11.000 [NTFS] [TID=11908] [INFO]: NtfsLogFile::Parse> Scanning is completed
+05/15/24 19:48:18 - scan cancelled.
+2024-05-15 19:48:18.000 [NTFS] [TID=11908] [INFO]: NtfsQuickScanner::~NtfsQuickScanner> dtor
+05/15/2024 19:48:18 - Save session: C:\Users\ermat\AppData\Local\DiskDrill\X831BM2113-000001-imation M.2 PCIe 512GB SSD X831B-122683392-107173556224.ddscan
+05/15/24 19:48:18 - [RecoveryChance]: estimate recovery chance was started
+05/15/24 19:48:18 - [RecoveryChance]: Building a file allocation map to estimate recovery chances...
+05/15/24 19:48:18 - [RecoveryChance]: 100623 total files
+05/15/24 19:48:18 - [RecoveryChance]: 0 files processed
+05/15/24 19:48:18 - [RecoveryChance]: 0 Allocation fragments created
+05/15/24 19:48:18 - [RecoveryChance]: estimate recovery chance was cancelled
+05/15/24 19:48:18 - [RecoveryChance]: memory was used for estimate recovery chance: 54116352 bytes
+05/15/24 19:48:20 - finished megascan for 'DTVolume 'Local Disk (C:)',
+	from: 'imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000007500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: X831BM2113-000001-imation M.2 PCIe 512GB SSD X831B-122683392-107173556224,
+	dos: C:\,
+	fs: NTFS, size: 107173556224, offset: 122683392, cluster size: 4096, count: 26165419', imgInfo 000002408AF90040
+05/15/24 19:48:20 - deep scan duration 0h00m00s
+05/15/24 19:48:20 - total scan duration 0h01m08s
+05/15/2024 19:48:20 - Save session complete: 00:00:01.5509732
+05/15/2024 19:48:20 - [DDTelemetry]: GA4 event - 'ScanData' = '
+scanRes	=canceled_by_user
+scanType	=scan-mega
+scanFs		=fs-ntfs
+scanEncrpt	=encryption-none
+scanRange	=range-partition
+scanDevType	=type-ssd_trim
+dskSmart	=smart-status-good
+scanDevId	=imation M.2 PCIe 512GB SSD X831B
+scanDevVid	=nvme
+scanDevPid	=disk-pid-unknown
+dskSeat		=seat-internal
+dskProto	=proto-raid
+dskSize		=102208.7
+foundSize	=32473.0
+recoverSize	=0.0
+sessState	=first_scan
+actSrc		=was-not-activated
+actCase		=was-not-activated
+rcFltrUsed	=False
+rcSrtUsed	=False
+choosedView	=fileview-default
+scanDur=	0'
+05/15/2024 19:48:20 - [DDTelemetry]: GA4 event - 'ScanDataExtended' = '
+badBlocksCount=	0
+hexEditorUsed=	0'
+05/15/2024 19:48:20 - Unmount preview from C:\Users\ermat\AppData\Local\Temp\tmpA0AA.tmp\
+05/15/24 19:48:20 - Unmounted('<null>', {<null>, False, False, False, False, #0, False, False}) -> Success
+05/15/2024 19:48:57 - UseAdaptiveIgnoreStructure: True
+05/15/2024 19:48:57 - Bad blocks count before start scan: 0
+05/15/24 19:48:57 - The support of SSE2 instructions was detected
+05/15/24 19:48:57 - The support of AVX2 instructions was detected
+05/15/24 19:48:57 - The support of AVX512F instructions was detected
+05/15/24 19:48:57 - The support of AVX512F instructions was enabled
+05/15/2024 19:48:57 - Preview mount to: C:\Users\ermat\AppData\Local\Temp\tmp461E.tmp
+05/15/24 19:48:57 - [SCAN] Start megascan for 'DTVolume 'Local Disk (C:)',
+	from: 'imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000007500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: X831BM2113-000001-imation M.2 PCIe 512GB SSD X831B-122683392-107173556224,
+	dos: C:\,
+	fs: NTFS, size: 107173556224, offset: 122683392, cluster size: 4096, count: 26165419', imgInfo 000002408AF90040
+05/15/24 19:48:57 -   free space only: 1
+05/15/24 19:48:57 - [SCAN] quick "DTVolume 'Local Disk (C:)',
+	from: 'imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000007500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: X831BM2113-000001-imation M.2 PCIe 512GB SSD X831B-122683392-107173556224,
+	dos: C:\,
+	fs: NTFS, size: 107173556224, offset: 122683392, cluster size: 4096, count: 26165419"
+05/15/24 19:48:57 - Quick Ntfs
+05/15/24 19:48:58 - Mounted('<null>', {<null>, False, False, False, False, #0, False, False}) -> Success
+[NTFS QUICK] [TID=3780] Log level is: 00000003
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsQuickScanner::NtfsQuickScanner> ctor
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsQuickScanner::Init> NTFS file system found
+05/15/2024 19:48:58 - Preview mount point detected at C:\Users\ermat\AppData\Local\Temp\tmp461E.tmp\
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsMftCache::LoadMft> $Mft is too big to fit in the cache: 831258624
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsFileSystem::DumpNtfsInfo> Volume ID: 129cbf23
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsFileSystem::DumpNtfsInfo> Bytes Per Sector: 200
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsFileSystem::DumpNtfsInfo> Bytes Per Cluster: 1000
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsFileSystem::DumpNtfsInfo> Bytes Per Mft Entry: 400
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsFileSystem::DumpNtfsInfo> Clusters Per Mft Entry: 0
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsFileSystem::DumpNtfsInfo> Mft Max: c6300
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsFileSystem::DumpNtfsInfo> Bytes Per Index Entry: 1000
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsLogFile::Init> LogFile version: 2.0
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsLogFile::Parse> Parsing is started
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsLogFile::Parse> Found 392173 LogRecords
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsLogFile::Parse> Parsing is completed
+2024-05-15 19:48:58.000 [NTFS] [TID=3780] [INFO]: NtfsLogFile::Parse> Scanning is started
+2024-05-15 19:48:59.000 [NTFS] [TID=3780] [INFO]: NtfsLogFileFilesScanner::ScanRecords> Found 1828 files and 1115 deleted files
+2024-05-15 19:48:59.000 [NTFS] [TID=3780] [INFO]: NtfsLogFileNameScanner::Scan> Found 4635 FileNameInfo
+2024-05-15 19:48:59.000 [NTFS] [TID=3780] [INFO]: NtfsLogFile::Parse> Scanning is completed
+05/15/24 19:52:59 - scan cancelled.
+2024-05-15 19:52:59.000 [NTFS] [TID=3780] [INFO]: NtfsQuickScanner::~NtfsQuickScanner> dtor
+05/15/2024 19:52:59 - Save session: C:\Users\ermat\AppData\Local\DiskDrill\X831BM2113-000001-imation M.2 PCIe 512GB SSD X831B-122683392-107173556224.ddscan
+05/15/24 19:53:00 - [RecoveryChance]: estimate recovery chance was started
+05/15/24 19:53:00 - [RecoveryChance]: Building a file allocation map to estimate recovery chances...
+05/15/24 19:53:00 - [RecoveryChance]: 375197 total files
+05/15/24 19:53:00 - [RecoveryChance]: 0 files processed
+05/15/24 19:53:00 - [RecoveryChance]: 0 Allocation fragments created
+05/15/24 19:53:00 - [RecoveryChance]: estimate recovery chance was cancelled
+05/15/24 19:53:00 - [RecoveryChance]: memory was used for estimate recovery chance: 171696128 bytes
+05/15/24 19:53:04 - finished megascan for 'DTVolume 'Local Disk (C:)',
+	from: 'imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000007500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: X831BM2113-000001-imation M.2 PCIe 512GB SSD X831B-122683392-107173556224,
+	dos: C:\,
+	fs: NTFS, size: 107173556224, offset: 122683392, cluster size: 4096, count: 26165419', imgInfo 000002408AF90040
+05/15/24 19:53:04 - deep scan duration 0h00m00s
+05/15/24 19:53:04 - total scan duration 0h04m03s
+05/15/2024 19:53:04 - Save session complete: 00:00:05.1494099
+05/15/2024 19:53:04 - [DDTelemetry]: GA4 event - 'ScanData' = '
+scanRes	=canceled_by_user
+scanType	=scan-mega
+scanFs		=fs-ntfs
+scanEncrpt	=encryption-none
+scanRange	=range-partition
+scanDevType	=type-ssd_trim
+dskSmart	=smart-status-good
+scanDevId	=imation M.2 PCIe 512GB SSD X831B
+scanDevVid	=nvme
+scanDevPid	=disk-pid-unknown
+dskSeat		=seat-internal
+dskProto	=proto-raid
+dskSize		=102208.7
+foundSize	=68497.6
+recoverSize	=0.0
+sessState	=first_scan
+actSrc		=was-not-activated
+actCase		=was-not-activated
+rcFltrUsed	=False
+rcSrtUsed	=False
+choosedView	=fileview-default
+scanDur=	0'
+05/15/2024 19:53:04 - [DDTelemetry]: GA4 event - 'ScanDataExtended' = '
+badBlocksCount=	0
+hexEditorUsed=	0'
+05/15/2024 19:53:04 - Unmount preview from C:\Users\ermat\AppData\Local\Temp\tmp461E.tmp\
+05/15/24 19:53:04 - Unmounted('<null>', {<null>, False, False, False, False, #0, False, False}) -> Success
+05/16/2024 08:14:49 - ************
+05/16/24 08:14:49 - DD 5.5.900.0
+05/16/24 08:14:49 - DDCore.dll 5.5.900.0
+05/16/24 08:14:49 - Service 0.1.2.52, running True
+05/16/2024 08:14:49 - Operating System Name  :  Microsoft Windows 11 Enterprise
+05/16/2024 08:14:49 - Operating System Architecture  :  64-bit
+05/16/24 08:14:49 - Dokan driver: 400, DLL: 151
+05/16/24 08:14:49 - Language: en
+05/16/24 08:14:49 - LogVerbosity: normal
+05/16/24 08:14:49 - Activation expired.
+05/16/24 08:14:50 - response: {
+	"hid" = "6010_-275668754_629907131_1680375296_2135435760";
+	"license_key_code" = "EA399-79823-EDCA6-BB3AE-3DECE";
+	"licenseName" = "Basic";
+	"product_id" = "114";
+	"product_name" = "Disk Drill for Windows";
+	"product_version" = "5";
+	"serverDate" = "2024-05-16T03:14:49Z";
+	"serverTime" = "1715829289";
+	"activationDate" = "2024-05-15T19:00:00Z";
+	"nextActivation" = "2025-05-15T19:00:00Z";
+	"firstActivation" = "2024-05-15";
+	"errorCode" = "0";
+	"registed_name" = "demo";
+	"key_type" = "1";
+}
+
+05/16/2024 08:14:50 - *************
+05/16/2024 08:14:50 - Activator state:             ACTIVATION_OK
+05/16/2024 08:14:50 - Activator key:               EA399-79823-EDCA6-BB3AE-3DECE
+05/16/2024 08:14:50 - Activator Reactivation Date: 5/16/2025 12:00:00 AM
+05/16/2024 08:14:50 - Activator license:           Basic
+05/16/2024 08:14:50 - Activator HID:               6010_-275668754_629907131_1680375296_2135435760
+05/16/2024 08:14:50 - Activator reg name:          demo
+05/16/2024 08:14:50 - *************
+05/16/2024 08:14:50 - [DDTelemetry]: GAT Change permission from False to True.
+05/16/2024 08:14:50 - [DDTelemetry]: GAT Start gathering analytics.
+05/16/24 08:14:50 - [iOS] Itunes (ProgramFiles) is not installed
+05/16/24 08:14:50 - [iOS] Initialization failure. Could not find iTunes installation
+05/16/2024 08:14:50 - DiskEnumStart_CallBack
+05/16/2024 08:14:50 - DiskEnumEnd_CallBack
+05/16/2024 08:14:50 - Activator restored: 0 bytes
+05/16/2024 08:14:51 - DiskEnumStart_CallBack
+05/16/24 08:14:51 - disk \\?\scsi#disk&ven_nvme&prod_imation_m.2_pcie#4&4e4e240&0&020000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+0
+05/16/24 08:14:51 - physicalNumber 0
+05/16/24 08:14:51 - seekPenalty=N
+05/16/24 08:14:51 - TRIM = Y
+05/16/24 08:14:51 - serialNumber 6479_A74A_1050_1587.
+2024-05-16 08:14:51.000 [BTRFS] [TID=14456] [INFO]: BtrfsFileSystem::LoadSuperBlock> Invalid SuperBlock magic: 0x0000000000000000
+05/16/24 08:14:51 - found volume \\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#00000018fb600000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+05/16/24 08:14:51 - Offset: 107296587776, Size: 914358272
+05/16/24 08:14:51 - found volume \\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000001932000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+05/16/24 08:14:51 - Offset: 108213043200, Size: 403896795136
+05/16/24 08:14:51 - volume dos path D:\, label Local Disk (D:)
+05/16/24 08:14:51 - found volume \\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+05/16/24 08:14:51 - Offset: 1048576, Size: 104857600
+05/16/24 08:14:51 - found volume \\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000007500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+05/16/24 08:14:51 - Offset: 122683392, Size: 107173560320
+05/16/24 08:14:51 - volume dos path C:\, label Local Disk (C:)
+05/16/24 08:14:51 - *added 6 items:
+05/16/24 08:14:51 - *added 6 items:
+[RAID QUICK] [TID=10960] Log level is: 00000003
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::RaidQuickScanner> ctor
+05/16/24 08:14:51 - DTInternalDisk 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	sector size: 512,
+	path: '\\?\scsi#disk&ven_nvme&prod_imation_m.2_pcie#4&4e4e240&0&020000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}',
+	physical: 0,
+	serial: 6479_A74A_1050_1587.,
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-512110190592,
+	fs: RAW, bus: RAID, size: 512110190592
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 000001DC8A381AC0
+05/16/24 08:14:51 - DTPartition 'NO NAME',
+	from: 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-1048576-104857600,
+	fs: FAT32, size: 104857600, offset: 1048576, cluster size: 1024, count: 98304
+05/16/24 08:14:51 - DTPartition 'Microsoft reserved partition',
+	from: 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	path: '[null]',
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-105906176-16777216,
+	fs: RAW, size: 16777216, offset: 105906176
+05/16/24 08:14:51 - DTVolume 'Local Disk (C:)',
+	from: 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000000007500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-122683392-107173556224,
+	dos: C:\,
+	fs: NTFS, size: 107173556224, offset: 122683392, cluster size: 4096, count: 26165419
+05/16/24 08:14:51 - DTPartition 'Microsoft recovery partition',
+	from: 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#00000018fb600000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-107296587776-914354176,
+	fs: NTFS, size: 914354176, offset: 107296587776, cluster size: 4096, count: 223231,
+	system: yes
+05/16/24 08:14:51 - DTVolume 'Local Disk (D:)',
+	from: 'NVMe imation M.2 PCIe 512GB SSD X831B',
+	path: '\\?\storage#volume#{ff12bdf1-d0bd-11ed-a324-806e6f6e6963}#0000001932000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}',
+	diskUID: 6479_A74A_1050_1587.-imation M.2 PCIe 512GB SSD X831B-108213043200-403896791040,
+	dos: D:\,
+	fs: NTFS, size: 403896791040, offset: 108213043200, cluster size: 4096, count: 98607615
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 000001DC8A381D00
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 000001DC8A381D60
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 000001DC8A382000
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 000001DC8A381AC0
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::AddDisk> DiskReader: 000001DC8A381700
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::Analyze> Start analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: MdScanner::Analyze> Start Mdadam analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: MdScanner::Analyze> Found raids: 0
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: MdScanner::Analyze> Finish Mdadm analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: LdmScanner::Analyze> Start Ldm analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: LdmScanner::Analyze> Found raids: 0
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: LdmScanner::Analyze> Finish Ldm analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: SsScanner::Analyze> Start Storage Spaces analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: SsScanner::AnalyzeSuperBlocks> Start SuperBlock analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: SsScanner::AnalyzeSuperBlocks> Finish SuperBlock analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: SsScanner::AnalyzeSpaceLogs> Start SpaceLog analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: SsScanner::AnalyzeSpaceLogs> Found SpaceLog raids: 0
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: SsScanner::AnalyzeSpaceLogs> Finish SpaceLog analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: SsScanner::AnalyzeRaids> Start raid analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: SsScanner::AnalyzeRaids> Found raids: 0
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: SsScanner::AnalyzeRaids> Finish raid analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: SsScanner::Analyze> Finish Storage Spaces analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: ArScanner::Analyze> Start AppleRaid analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: ArScanner::Analyze> Found raids: 0
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: ArScanner::Analyze> Finish AppleRaid analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: BtrfsScanner::Analyze> Start analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: BtrfsScanner::AnalyzeSuperBlocks> Start SuperBlock analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: BtrfsScanner::AnalyzeSuperBlocks> Finish SuperBlock analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: BtrfsScanner::AnalyzeRaids> Start raid analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: BtrfsScanner::AnalyzeRaids> Finish raid analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: BtrfsScanner::Analyze> Finish analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::AnalyzeNestedRaids> Start nested raids analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::AnalyzeNestedRaids> Finish nested raids analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::Analyze> Total found raids: 0
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::Analyze> Finish analysis
+2024-05-16 08:14:51.000 [RAID] [TID=10960] [INFO]: RaidQuickScanner::~RaidQuickScanner> dtor
+05/16/2024 08:14:51 - DiskEnumEnd_CallBack
+05/16/24 08:14:52 - 
+05/16/24 08:14:52 - Pd=0, Model=imation M.2 PCIe 512GB SSD X831B, Serial=X831BM2113-000001, FirmwareRev=EDFMB0.5, SmartCapable=1
+05/16/24 08:14:52 - SMART_DiskSize=0 MB; DiskSize=488386 MB
+05/16/24 08:14:52 - SMART_SectorSize:logical=512;physical=512; SectorSize=512
+05/16/24 08:14:52 - Temperature=40C
+05/16/24 08:14:52 - Temperature status=1
+05/16/24 08:14:52 - Disk status=Good (Health: 99%)
+05/16/24 08:14:52 - Disk Uptime=8259
+05/16/24 08:14:52 - Disk Power Cycles=1417
+05/16/24 08:14:52 - Health=99% (status=1)
+05/16/24 08:14:52 - Life=99%
+05/16/24 08:14:52 - HostReads=13.16 TB
+05/16/24 08:14:52 - HostWrites=8.24 TB
+05/16/24 08:14:52 - Disk vendor=nv
+05/16/24 08:14:52 - ID=01; CUR=000; WRST=000; THRS=000; RAW=000000000000 (0) NAME=Critical Warning
+05/16/24 08:14:52 - ID=02; CUR=000; WRST=000; THRS=000; RAW=000000000139 (313) NAME=Composite Temperature
+05/16/24 08:14:52 - ID=03; CUR=000; WRST=000; THRS=000; RAW=000000000064 (100) NAME=Available Spare
+05/16/24 08:14:52 - ID=04; CUR=000; WRST=000; THRS=000; RAW=000000000005 (5) NAME=Available Spare Threshold
+05/16/24 08:14:52 - ID=05; CUR=000; WRST=000; THRS=000; RAW=000000000001 (1) NAME=Percentage Used
+05/16/24 08:14:52 - ID=06; CUR=000; WRST=000; THRS=000; RAW=000000AF19B2 (28252594) NAME=Data Units Read
+05/16/24 08:14:52 - ID=07; CUR=000; WRST=000; THRS=000; RAW=0000000E1786 (17700742) NAME=Data Units Written
+05/16/24 08:14:52 - ID=08; CUR=000; WRST=000; THRS=000; RAW=0000009DEC93 (396225683) NAME=Host Read Commands
+05/16/24 08:14:52 - ID=09; CUR=000; WRST=000; THRS=000; RAW=000000FF310C (268382476) NAME=Host Write Commands
+05/16/24 08:14:52 - ID=0A; CUR=000; WRST=000; THRS=000; RAW=00000000069D (1693) NAME=Controller Busy Time
+05/16/24 08:14:52 - ID=0B; CUR=000; WRST=000; THRS=000; RAW=000000000589 (1417) NAME=Power Cycles
+05/16/24 08:14:52 - ID=0C; CUR=000; WRST=000; THRS=000; RAW=000000002043 (8259) NAME=Power On Hours
+05/16/24 08:14:52 - ID=0D; CUR=000; WRST=000; THRS=000; RAW=000000000023 (35) NAME=Unsafe Shutdowns
+05/16/24 08:14:52 - ID=0E; CUR=000; WRST=000; THRS=000; RAW=000000000000 (0) NAME=Media and Data Integrity Errors
+05/16/24 08:14:52 - ID=0F; CUR=000; WRST=000; THRS=000; RAW=0000000017B4 (6068) NAME=Number of Error Information Log Entries
